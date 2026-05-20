@@ -2,14 +2,15 @@ import streamlit as st
 import pdfplumber
 import pandas as pd
 import re
-import spacy
+#import spacy
 
 # Load NLP model
-try:
+'''try:
     nlp = spacy.load("en_core_web_sm")
 except:
     spacy.cli.download("en_core_web_sm")
     nlp = spacy.load("en_core_web_sm")
+'''
 
 # Streamlit Config
 st.set_page_config(
