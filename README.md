@@ -59,7 +59,7 @@ The application generates:
 
 Clone repository:
 
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/Mayur142005/ai-resume-analyzer
 
 Move to project:
 
