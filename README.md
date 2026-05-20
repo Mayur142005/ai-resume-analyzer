@@ -78,14 +78,14 @@ streamlit run main.py
 ## 🌐 Live Demo
 
 Live Demo:
-PASTE_YOUR_STREAMLIT_LINK
+https://ai-resume-analyzer-dpow5s5wcar6d4dwgvfatb.streamlit.app/
 
 ---
 
 ## 💻 GitHub Repository
 
 Repository:
-PASTE_YOUR_GITHUB_LINK
+https://github.com/Mayur142005/ai-resume-analyzer
 
 ---
 
